@@ -1,3 +1,4 @@
+#Mudacça versao 2
 import time
 
 # Lista (Array) com os versos da música
