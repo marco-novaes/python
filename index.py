@@ -1,6 +1,8 @@
 #Mudacça versao 2
 import time
 
+#Mudança para versão 3
+
 # Lista (Array) com os versos da música
 letra = [
     "Tu tá com o código aberto, cara de preocupado",
