@@ -1,6 +1,7 @@
 #Mudacça versao 2
 import time
 
+#Mudança para versão 4
 #Mudança para versão 3
 
 # Lista (Array) com os versos da música
