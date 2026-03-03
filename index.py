@@ -3,6 +3,7 @@ import time
 #Mudança para versao 5
 #Mudança para versão 4
 #Mudança para versão 3
+#Mudança para versão 6
 
 # Lista (Array) com os versos da música
 letra = [
